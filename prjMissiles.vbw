@@ -1,0 +1,4 @@
+frmMissiles = 88, 88, 604, 533, Z, 22, 22, 538, 467, C
+clsProjectile = 44, 44, 560, 489, 
+modGeneral = 66, 66, 582, 511, 
+colMissiles = 132, 132, 620, 577, 
